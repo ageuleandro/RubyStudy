@@ -7,4 +7,4 @@ until jogo.venceu # Enquanto for falsa, execute
   puts jogo.tentar_adivinhar(numero)
 end
 
-
+#teste
