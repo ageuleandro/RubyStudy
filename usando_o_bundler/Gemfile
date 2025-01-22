@@ -1,0 +1,6 @@
+source "https://rubygems.org/"
+
+gem  "cpf_utils"
+gem  "lerolero_generator"
+
+# Usa-se bundle install - Gera o arquivo Gemfile.lock

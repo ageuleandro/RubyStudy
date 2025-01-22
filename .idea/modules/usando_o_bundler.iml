@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../usando_o_bundler">
+      <sourceFolder url="file://$MODULE_DIR$/../../usando_o_bundler/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../usando_o_bundler/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../usando_o_bundler/test" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote: ruby-3.3.6-p108" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.6.3, Remote: ruby-3.3.6-p108) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cpf_utils (v1.3.1, Remote: ruby-3.3.6-p108) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="lerolero_generator (v1.0.1, Remote: ruby-3.3.6-p108) [gem]" level="application" />
+  </component>
+  <component name="RubyModuleProperties">
+    <option name="autoCreated" value="true" />
+  </component>
+</module>
