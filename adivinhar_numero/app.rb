@@ -8,3 +8,5 @@ until jogo.venceu # Enquanto for falsa, execute
 end
 
 #teste
+# teste 2
+# teste 3
