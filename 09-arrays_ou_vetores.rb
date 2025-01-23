@@ -13,3 +13,4 @@ puts v
 v.delete(500)
 puts "--------------------"
 puts v
+
