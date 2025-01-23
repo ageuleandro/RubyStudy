@@ -2,6 +2,10 @@ body {
     background-color: blueviolet;
 }
 
+text {
+    align-self: auto;
+}
+
 a {
     text-decoration: underline
 }
